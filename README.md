@@ -64,13 +64,13 @@ This project implements a user authentication system for a website, including lo
 
 4. Import the required database tables:
 
-  -Use the .sql files (if provided) to set up the database for ECommereceWebWithBackend and AuthenticationWithBackend.
-  -Update the database connection details (host, username, password, database) in the PHP files.
-  -Open the project URLs in your browser:
+  - Use the .sql files (if provided) to set up the database for ECommereceWebWithBackend and AuthenticationWithBackend.
+  - Update the database connection details (host, username, password, database) in the PHP files.
+  - Open the project URLs in your browser:
 
-Contact Form: http://localhost/ContactFormWithBackend/contact.html
-E-Commerce: http://localhost/ECommereceWebWithBackend/products.html
-Authentication: http://localhost/AuthenticationWithBackend/index.html
+- **Contact Form:** http://localhost/ContactFormWithBackend/contact.html
+- **E-Commerce:** http://localhost/ECommereceWebWithBackend/products.html
+- **Authentication:** http://localhost/AuthenticationWithBackend/index.html
 
 ## Future Improvements
 1. Enhance the UI/UX using CSS or JavaScript.
